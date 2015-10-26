@@ -36,6 +36,7 @@ public class Geometry {
         functions.areaLength();
         functions.areaTriangle();
         functions.areaCircle();
+        functions.volumeCube();
         
     }
     

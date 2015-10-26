@@ -37,6 +37,12 @@ public class Functions {
         System.out.println("The area of your circle is " + area);
         
     }
+    
+    public void volumeCube() {
+        double volume;
+        volume = length * width * height;
+        System.out.println("The volume of your cube is " + volume);
+    }
 
   
 }
